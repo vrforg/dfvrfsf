@@ -1,0 +1,16 @@
+<apex:page >
+<table>
+  <tr><th>Title: Title: Product By Type</th></tr>
+  <tr><th>Product Type: Bag</th></tr>
+  <tr><th>&nbsp;</th></tr>
+
+</table>
+ 
+<table>
+
+  <tr><th>Product Name</th><th>&nbsp;&nbsp;&nbsp;&nbsp;Product Code</th></tr>
+  <tr><td>Michael Korrs Hand Bag</td><td>&nbsp;&nbsp;&nbsp;&nbsp;ABCD1</td></tr>
+  <tr><td>Michael Korrs Shoulder Bag</td><td>&nbsp;&nbsp;&nbsp;&nbsp;ABCD2</td></tr>
+
+</table>
+</apex:page>

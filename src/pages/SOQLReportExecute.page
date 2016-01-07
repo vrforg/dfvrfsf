@@ -1,0 +1,6 @@
+<apex:page controller="SOQLReport" >
+  <!-- Begin Default Content REMOVE THIS -->
+  <h1>Congratulations</h1>
+  This is your new Page: SOQLReportExecute
+  {!fieldValues}
+</apex:page>

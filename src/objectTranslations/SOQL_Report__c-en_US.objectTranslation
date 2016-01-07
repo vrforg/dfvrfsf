@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>SOQL Report</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>SOQL Reports</value>
+    </caseValues>
+    <fields>
+        <label><!-- SOQLReportExecute --></label>
+        <name>SOQLReportExecute__c</name>
+    </fields>
+    <fields>
+        <label><!-- SOQL Report Name --></label>
+        <name>SOQL_Report_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- SOQL Report Parent --></label>
+        <name>SOQL_Report_Parent__c</name>
+        <relationshipLabel><!-- SOQL Reports --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- SOQL Source --></label>
+        <name>SOQL_Source__c</name>
+    </fields>
+    <layouts>
+        <layout>SOQL Report Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <webLinks>
+        <label><!-- Genenerate_Report --></label>
+        <name>Genenerate_Report</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Generate --></label>
+        <name>Generate</name>
+    </webLinks>
+</CustomObjectTranslation>
