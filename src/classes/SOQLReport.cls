@@ -34,6 +34,7 @@ public String fieldValues {get;set;}
 
 
 	public String getjsonresult(){
+	    System.debug('hello there');
 		return JSON.serializePretty(result);
 	}
 	
